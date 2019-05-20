@@ -5,3 +5,7 @@
 
 ### In other words, support vector machines calculate a maximum-margin boundary that leads to a homogeneous partition of all data points. This classifies an SVM as a maximum margin classifier.
 ### On the edge of either side of a margin lies sample data labeled as support vectors
+![Classification-of-data-by-support-vector-machine-SVM](https://user-images.githubusercontent.com/49519213/58025045-ddf61d80-7b13-11e9-9614-1ea56767f8ca.png)
+
+* This File Contains  :
+Support_vector_machines.ipynb(Dataset-IRIS)
