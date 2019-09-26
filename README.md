@@ -41,3 +41,13 @@
 
 ![MLbasic](https://user-images.githubusercontent.com/49519213/57814945-ab47d000-7775-11e9-822e-a7781eb45126.jpg)
 
+
+
+
+# Note when trying to open .ipynb file if some issue occur i:e"Sorry, something went wrong. Reload?" when viewing *.ipynb"
+## Follow the following Steps
+### 1.Copy the Url  of Program  "https://github.com/shujatalikhan/Deep_Neural_Network_Learning_Projects/blob/master/Transfer_Learning_VGG16/Convolutional_Neural_Network.ipynb" ---This is one example you can do same for any file
+### 2. open "https://nbviewer.jupyter.org/" and Paste the Url 
+### 3. Then You can See the Code 
+
+
