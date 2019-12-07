@@ -1,5 +1,9 @@
 # Random Forest 
 ### Random forest algorithm is a supervised classification algorithm. As the name suggest, this algorithm creates the forest with a number of trees.
+
+![1_i0o8mjFfCn-uD79-F1Cqkw](https://user-images.githubusercontent.com/49519213/70375939-1d475880-1904-11ea-8037-744b3541d17e.png)
+
+
 ## Random Advantages:
  * The same random forest algorithm or the random forest classifier can use for both classification and the regression task.
  * Random forest classifier will handle the missing values
